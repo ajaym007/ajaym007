@@ -13,7 +13,7 @@ Dedicated Data Analyst with practical expertise in Power BI, SQL, Python, EDA, a
 - 💼 Proven track record in delivering successful projects within tight deadlines as team lead.
 - 🌍 Based in Umerkote,Odisha.
 - 📂 Explore all my projects [here](https://github.com/ajaym007?tab=repositories) 
-- 🔗 Visit my [Portfolio](a) for more details.
+- 🔗 Visit my [Portfolio](https://ajaym007.github.io/) for more details.
 - 📧 You can reach me at [misalajay707@gmail.com](mailto:misalajay707@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ajay-misal007/) 
 - 📧 Contact me at 7008145348
 <br />
